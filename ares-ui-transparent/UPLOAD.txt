@@ -1,0 +1,34 @@
+ARES UI / TRANSPARENT PNG ASSETS
+
+Upload the 19 PNG files into one folder named ares-v2 in Heavens-assets.
+Keep filenames exactly as supplied. Do not upload a ZIP as a substitute for PNGs.
+The image loader will use the raw PNG URLs after upload.
+
+All PNGs have actual RGBA transparency. The dark contact-sheet background is
+only a preview and is not part of these PNG files. Open interior spaces and
+the background around the character are transparent. Glow strength is baked
+into partial alpha, so the runtime may dim it further with draw.Image alpha.
+
+Files:
+ares-icon-aim.png
+ares-icon-players.png
+ares-icon-npcs.png
+ares-icon-world.png
+ares-icon-mobility.png
+ares-icon-weapons.png
+ares-icon-overlay.png
+ares-icon-profiles.png
+ares-icon-appearance.png
+ares-icon-diagnostics.png
+ares-icon-search.png
+ares-icon-calibrate.png
+ares-icon-chevron.png
+ares-icon-favorite.png
+ares-logo.png
+ares-glow-window.png
+ares-glow-control.png
+ares-glow-dot.png
+ares-character.png
+
+This is the asset pack. Script integration and the gameplay freeze fixes are
+not included in this ZIP. No assets have been published to GitHub yet.

@@ -1,0 +1,253 @@
+{
+  "style": "thin white generated line art / soft white bloom",
+  "background": "transparent alpha",
+  "assets": [
+    {
+      "file": "ares-character.png",
+      "size": [
+        512,
+        640
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 177030,
+      "partial_alpha_pixels": 8703,
+      "sha256": "448e43cf36667138b25a77d2c15cd733d9e9acd9c28ec7c9b03c5316ccad53ba",
+      "source": "ares-character.png"
+    },
+    {
+      "file": "ares-glow-control.png",
+      "size": [
+        512,
+        141
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 54634,
+      "partial_alpha_pixels": 17546,
+      "sha256": "034e7fb57031818a883ff11a6fad3b0d0d72ef21d6e1327ce243aa78480bae54",
+      "source": "ares-glow-control.png"
+    },
+    {
+      "file": "ares-glow-dot.png",
+      "size": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 40697,
+      "partial_alpha_pixels": 24838,
+      "sha256": "614b758c8d08914307a32a406924b75292b71c58aaaa0a517fa77aacf28ae14e",
+      "source": "ares-glow-dot.png"
+    },
+    {
+      "file": "ares-glow-window.png",
+      "size": [
+        1024,
+        643
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 537983,
+      "partial_alpha_pixels": 117994,
+      "sha256": "f75b7a5b1c4509f40468feefdd66ac318351e9689eb1159669fe0210a8d8b986",
+      "source": "ares-glow-window.png"
+    },
+    {
+      "file": "ares-icon-aim.png",
+      "size": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 58698,
+      "partial_alpha_pixels": 6647,
+      "sha256": "c908deca21d79e20d0cb7de9667a1852a1ad58d10f28ab31be70cba35bf17030",
+      "source": "ares-icon-aim.png"
+    },
+    {
+      "file": "ares-icon-appearance.png",
+      "size": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 57445,
+      "partial_alpha_pixels": 7678,
+      "sha256": "95301b5062af0b4737e4e82db5abe923171eb5adfcbcaa480bd3bf9c9e029981",
+      "source": "ares-icon-appearance.png"
+    },
+    {
+      "file": "ares-icon-calibrate.png",
+      "size": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 60191,
+      "partial_alpha_pixels": 5059,
+      "sha256": "f7c5b1ec7a048464cd9766a118d4ad05c484b043c8ef04b62c932c7be7e7481e",
+      "source": "ares-icon-calibrate.png"
+    },
+    {
+      "file": "ares-icon-chevron.png",
+      "size": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 62083,
+      "partial_alpha_pixels": 3231,
+      "sha256": "dadfb4b78f9d4756fdfa9eba024372f95bd7cbdd7442e49784d85d5fe4518144",
+      "source": "ares-icon-chevron.png"
+    },
+    {
+      "file": "ares-icon-diagnostics.png",
+      "size": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 57743,
+      "partial_alpha_pixels": 7363,
+      "sha256": "e701c9b7d8e8d48616cacb8312f6f9d20dbb973e01f2322ff8ab5d0575028c59",
+      "source": "ares-icon-diagnostics.png"
+    },
+    {
+      "file": "ares-icon-favorite.png",
+      "size": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 56515,
+      "partial_alpha_pixels": 8552,
+      "sha256": "661cfc10189243110c5aa223460de113a8d5f9b4ee68ab875e8b6c04228a4b65",
+      "source": "ares-icon-favorite.png"
+    },
+    {
+      "file": "ares-icon-mobility.png",
+      "size": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 58574,
+      "partial_alpha_pixels": 6643,
+      "sha256": "273eae828bf28c9785b6e4224fdc9219444796817ca347e40c4dbb407fff41fc",
+      "source": "ares-icon-mobility.png"
+    },
+    {
+      "file": "ares-icon-npcs.png",
+      "size": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 58777,
+      "partial_alpha_pixels": 6515,
+      "sha256": "8f01a6f16bbeb2109f7c1d41629352450cfed6f026271be6f73c4ab405dcb93b",
+      "source": "ares-icon-npcs.png"
+    },
+    {
+      "file": "ares-icon-overlay.png",
+      "size": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 56741,
+      "partial_alpha_pixels": 8452,
+      "sha256": "bd2a42481c8734ff41c27cf3d80f1607581f6d2a90a7fa53884c2ff49020c6df",
+      "source": "ares-icon-overlay.png"
+    },
+    {
+      "file": "ares-icon-players.png",
+      "size": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 59192,
+      "partial_alpha_pixels": 6044,
+      "sha256": "a36ac28079ca693cb39d1b16dd16f900ecf4245d750df1bd9a39d1d54d051c3a",
+      "source": "ares-icon-players.png"
+    },
+    {
+      "file": "ares-icon-profiles.png",
+      "size": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 54586,
+      "partial_alpha_pixels": 10156,
+      "sha256": "3f9407496b72cbc281a2da48a43443241d83cd830512b42dde94405bc5e9f15d",
+      "source": "ares-icon-profiles.png"
+    },
+    {
+      "file": "ares-icon-search.png",
+      "size": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 57419,
+      "partial_alpha_pixels": 7632,
+      "sha256": "26d90827a63bce3f9ed1c4de1b754182d0cfbc68e155fc11a693f7dc1ab7409b",
+      "source": "ares-icon-search.png"
+    },
+    {
+      "file": "ares-icon-weapons.png",
+      "size": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 61168,
+      "partial_alpha_pixels": 4364,
+      "sha256": "c14a966855048a23e15015e544c299e7439bdb6fb5192c66f06cad7f8b391379",
+      "source": "ares-icon-weapons.png"
+    },
+    {
+      "file": "ares-icon-world.png",
+      "size": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 55021,
+      "partial_alpha_pixels": 9927,
+      "sha256": "d0feb61c76b1d8c70b1eeaba9dbf677defb383394a1b1b9b32ae874fb8050d6d",
+      "source": "ares-icon-world.png"
+    },
+    {
+      "file": "ares-logo.png",
+      "size": [
+        256,
+        256
+      ],
+      "rgba": true,
+      "transparent_corner": true,
+      "transparent_pixels": 55790,
+      "partial_alpha_pixels": 9345,
+      "sha256": "a8db96b53756ad7a1a3f6a53b02ec6a819ca76f324de7a6269c0a8b68ee24020",
+      "source": "ares-logo.png"
+    }
+  ]
+}

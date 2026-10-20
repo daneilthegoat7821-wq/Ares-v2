@@ -1,0 +1,82 @@
+{
+  "tool": "built-in image_gen",
+  "cleanup": "User-approved precise code alpha extraction; raw generator backgrounds excluded from final PNGs.",
+  "prompts": [
+    {
+      "name": "ares-icon-players",
+      "prompt": " Subject: An elegant person/profile glyph: one small circular head outline above one smooth open shoulder arc. Custom sophisticated proportions, perfectly symmetrical, very clean."
+    },
+    {
+      "name": "ares-icon-aim",
+      "prompt": "A single expertly designed thin white crosshair UI glyph. Flat 2D monoline, rounded ticks, tiny dot, four separated arcs, extremely restrained close soft white halo; no chrome, bevels, fills, labels or extra decoration. Generated on uniform near-black for precise luminance-alpha cleanup."
+    },
+    {
+      "name": "ares-icon-npcs",
+      "prompt": "Match the reference's thin crisp white rounded monoline strokes and delicate close soft white glow. One flat 2D premium software icon on perfectly uniform near-black #0B0B0B. No fills, no text, no labels, no tile, no chrome, no 3D. Generous empty margins. Subject: A minimal helmeted character head outline inside two small separated scanner brackets. The face has one fine short visor line; empty otherwise. Spare and sophisticated, no robot mascot."
+    },
+    {
+      "name": "ares-icon-world",
+      "prompt": "Match the reference's thin crisp white rounded monoline strokes and delicate close soft white glow. One flat 2D premium software icon on perfectly uniform near-black #0B0B0B. No fills, no text, no labels, no tile, no chrome, no 3D. Generous empty margins. Subject: An elegant globe with one fine circle, one elliptical meridian and one straight equator. Two tiny gaps in the outer ring add a distinctive precise optical rhythm."
+    },
+    {
+      "name": "ares-icon-weapons",
+      "prompt": "Match the reference's thin crisp white rounded monoline strokes and delicate close soft white glow. One flat 2D premium software icon on perfectly uniform near-black #0B0B0B. No fills, no text, no labels, no tile, no chrome, no 3D. Generous empty margins. Subject: A clean simplified side-view compact rifle silhouette drawn entirely as a very thin white outline. Simple stock, straight barrel and short magazine, minimal detail, balanced at small UI size."
+    },
+    {
+      "name": "ares-icon-mobility",
+      "prompt": "Match the reference's thin crisp white rounded monoline strokes and delicate close soft white glow. One flat 2D premium software icon on perfectly uniform near-black #0B0B0B. No fills, no text, no labels, no tile, no chrome, no 3D. Generous empty margins. Subject: Two slender gently curved forward chevrons, precisely spaced, with a short delicate trailing motion line. A distinctive light, agile motion symbol."
+    },
+    {
+      "name": "ares-icon-overlay",
+      "prompt": "undefined Subject: Two elegantly offset overlapping rectangular viewfinder frames, with subtle open corners. Sparse fine lines, precise spacing, a distinctive layered-screen symbol."
+    },
+    {
+      "name": "ares-icon-profiles",
+      "prompt": "undefined Subject: A refined single folder outline with one small offset floating line behind its upper edge, and three tiny clean vertical configuration marks inside. Simple elegant software profile symbol."
+    },
+    {
+      "name": "ares-icon-appearance",
+      "prompt": "undefined Subject: A unique spare four-point sparkle outline paired with one tiny thin crescent arc offset to its lower right. Delicate and balanced, suggesting visual polish and theme styling."
+    },
+    {
+      "name": "ares-icon-diagnostics",
+      "prompt": "undefined Subject: A fine clean heartbeat/pulse line with one low and one high peak passing through two small separated bracket corners. Minimal crisp technical diagnostics symbol."
+    },
+    {
+      "name": "ares-icon-search",
+      "prompt": "undefined Subject: A slim magnifying-glass glyph: one fine circular lens with a tiny intentional open gap where a single short diagonal rounded handle meets it. Perfect optical balance."
+    },
+    {
+      "name": "ares-icon-calibrate",
+      "prompt": "undefined Subject: Four delicate detached right-angle corner brackets surrounding one tiny centered white dot and four very short precision ticks. Refined calibration/alignment glyph, spare and crisp."
+    },
+    {
+      "name": "ares-icon-chevron",
+      "prompt": "undefined Subject: A single clean right-pointing chevron made of one continuous very thin rounded stroke, its turning point gently curved. Elegantly proportioned and perfectly balanced."
+    },
+    {
+      "name": "ares-icon-favorite",
+      "prompt": "undefined Subject: A single simple five-point favorite star outline with subtly softened corners, no fill, balanced thin strokes and a very restrained glow."
+    },
+    {
+      "name": "ares-logo",
+      "prompt": "undefined Subject: a distinctive A-shaped monogram drawn with just two very slender angular sides and a short elegantly floating crossbar, an open incomplete triangular apex and subtle asymmetric terminal cut. Single clean ARES emblem, no surrounding ring, no text or wordmark."
+    },
+    {
+      "name": "ares-glow-window",
+      "prompt": "Production UI glow texture on a perfectly solid black background. A wide landscape rounded rectangle outline with very small corner radius, luminous soft white rim, an exquisitely smooth Gaussian white halo fading outward to absolute black within a narrow band. Completely black empty center. Rectangle roughly 3:2 aspect ratio centered with generous 12 percent empty black margins. The shape is a flat front-facing precise thin line; glow is subtle and luxurious. No glass panel fill, no bevel, no chrome, no objects, no text, no particles, no reflections, no scenery. Uniform white/grayscale only. Designed for luminance-to-alpha extraction as a UI border glow."
+    },
+    {
+      "name": "ares-glow-control",
+      "prompt": "A production software UI glow texture: ONE wide slender pill-shaped horizontal white line outline, glowing softly on a perfectly solid black background. Very clean symmetrical capsule, about 5:1 width-to-height, thin quiet white rim with a close soft Gaussian halo fading smoothly to pure black. Empty solid black inside the capsule, generous empty black margins outside. No fill, no bevel, no 3D, no texture, no reflections, no letters, no particles, no extra objects. White and grayscale only. Intended as a subtle glowing control border, not neon signage."
+    },
+    {
+      "name": "ares-glow-dot",
+      "prompt": "A production UI light-bloom texture on perfectly solid pure black: one small centered circular soft white glow with a very small bright white center, exquisitely smooth Gaussian falloff to pure black. No hard circular outline, no lens flare, no rings, no rays, no particles, no starburst, no text or extra objects. Exact radial symmetry. The luminous center occupies only 6 percent of canvas width; faint halo occupies about 45 percent. Luxurious restrained white light, grayscale only."
+    },
+    {
+      "name": "ares-character",
+      "prompt": "Background replacement edit for precise production cutout. Keep the attached videogame character EXACTLY as supplied: same blocky body, hair silhouette, clothing, facial expression, brown/gray textures, pose, proportions and every visible detail. Replace ONLY all dark diagonal-striped background with a perfectly uniform vivid pure green #00FF00 chroma-key background, including the gaps around and between limbs. Do not add green to the character. No new lighting, no shadow, no redesign, no accessories, no text. Preserve the whole character fully within the frame. This is a faithful image cutout preparation, not a new rendering."
+    }
+  ]
+}
