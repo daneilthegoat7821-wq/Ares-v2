@@ -1,0 +1,24 @@
+ARES / DEATH TOGGLE / TRANSPARENT IMAGE PACK
+
+Upload these two PNGs together, keeping their exact filenames:
+  ares-death-reaper.png  - main hooded reaper and downward scythe
+  ares-death-aura.png    - separate spectral aura behind the figure
+
+Suggested repository folder: ares-ui-transparent
+Keep the original PNGs; do not flatten them onto black or convert to JPEG.
+Send the GitHub links after uploading. The existing ARES 2.9 script is still
+the current release; the new ESP effect will be connected to your supplied URLs.
+
+Planned ESP controls: Death toggle; reaper size; height above the head;
+horizontal alignment; transparency; aura opacity/size; depth/parallax;
+idle motion; distance fade; maximum render distance and marker count.
+
+Layering: draw the aura first with a small, separately bounded parallax offset;
+draw the reaper second. Anchor the downward blade tip above the projected head.
+Independent motion and lighting create a 2.5D effect from the two 2D sprites.
+They are not a 3D mesh or views that can be rotated around the character.
+Reuse the same two loaded textures for every marker. Skip dead, excluded and
+off-screen players. Respect the existing ESP filters and reduced-motion option.
+
+PROMPTS.json contains the exact prompts used with the built-in image generator.
+manifest.json records dimensions, alpha checks, file sizes and SHA-256 hashes.

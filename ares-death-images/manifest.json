@@ -1,0 +1,41 @@
+{
+  "generation": "Built-in image_gen, transparent_background=true",
+  "status": "Images ready; runtime integration awaits the user-provided GitHub asset links",
+  "assets": [
+    {
+      "file": "ares-death-reaper.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "transparent_corner_check": "PASS",
+      "fully_transparent_pixels": 907964,
+      "semi_transparent_pixels": 664900,
+      "bytes": 2396283,
+      "sha256": "6471bda90440da2b922cacb675a53ab64eedab8368251d3976e0e52e68fd24c2"
+    },
+    {
+      "file": "ares-death-aura.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "transparent_corner_check": "PASS",
+      "fully_transparent_pixels": 864380,
+      "semi_transparent_pixels": 708484,
+      "bytes": 2096188,
+      "sha256": "da692f9be917f750845ab4d4f675c99e43d2b8510c29461b776ef3b7a72fa795",
+      "center_alpha": 0
+    }
+  ]
+}
