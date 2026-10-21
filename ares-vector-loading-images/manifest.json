@@ -1,0 +1,160 @@
+{
+  "status": "Preview assets; script release unchanged",
+  "ares_choice": "Second generated logo / glowing ivory A",
+  "vector_source_size": [
+    56,
+    43
+  ],
+  "vector_glyph_bounds": [
+    13,
+    13,
+    37,
+    35
+  ],
+  "vector_cleanup": "Four polygon components traced from the supplied raster and antialiased at high resolution; cyan-to-blue gradient sampled from source.",
+  "ares_cleanup": "Alpha-only low-opacity speck removal under prior user approval; RGB retained.",
+  "aura_source": "Existing assets/ares-glow-dot.png, cyan tint applied by renderer",
+  "assets": [
+    {
+      "file": "ares-loading-ivory.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "visible_bounds": [
+        137,
+        66,
+        1138,
+        1181
+      ],
+      "bytes": 725238,
+      "sha256": "4d0551e93407002a9decde23db163142edbd6b867d163b7b9155879d5cd49c39"
+    },
+    {
+      "file": "vector-loading-mark.png",
+      "size": [
+        512,
+        512
+      ],
+      "visible_bounds": [
+        72,
+        102,
+        440,
+        410
+      ],
+      "bytes": 6996,
+      "sha256": "e139cf53e5e8693bbd2bb4f1fe02f1ab0031738cea7d30ea6fc4fff250074d2d"
+    }
+  ],
+  "vector_shape_iou_at_source_resolution": 0.8703,
+  "vector_polygons": [
+    [
+      [
+        12.5,
+        13.5
+      ],
+      [
+        17.5,
+        13.5
+      ],
+      [
+        22.5,
+        21.5
+      ],
+      [
+        22.5,
+        25.5
+      ],
+      [
+        21.5,
+        27.5
+      ],
+      [
+        20.5,
+        27.5
+      ],
+      [
+        14.5,
+        18.5
+      ]
+    ],
+    [
+      [
+        29.5,
+        15.5
+      ],
+      [
+        31.5,
+        13.5
+      ],
+      [
+        36.5,
+        13.5
+      ],
+      [
+        34.5,
+        17.5
+      ],
+      [
+        29.5,
+        17.5
+      ]
+    ],
+    [
+      [
+        22.5,
+        15.5
+      ],
+      [
+        27.5,
+        15.5
+      ],
+      [
+        25.5,
+        20.5
+      ],
+      [
+        23.5,
+        20.5
+      ],
+      [
+        22.5,
+        18.5
+      ]
+    ],
+    [
+      [
+        22.5,
+        28.5
+      ],
+      [
+        26.5,
+        21.5
+      ],
+      [
+        28.5,
+        19.5
+      ],
+      [
+        32.5,
+        19.5
+      ],
+      [
+        32.5,
+        21.5
+      ],
+      [
+        25.5,
+        33.5
+      ],
+      [
+        23.5,
+        33.5
+      ],
+      [
+        22.5,
+        31.5
+      ]
+    ]
+  ]
+}

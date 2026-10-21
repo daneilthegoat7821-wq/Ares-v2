@@ -1,0 +1,27 @@
+ARES x VECTOR / POWERED BY VECTOR / 3.6-SECOND RENDER
+
+Chosen ARES mark: the SECOND generated option, the glowing ivory A.
+Vector mark: the supplied cyan logo, with its background removed and its
+four geometric pieces traced for crisp enlarged edges.
+
+Upload these TWO PNGs to Ares-v2 / ares-loading-images /:
+  ares-loading-ivory.png
+  vector-loading-mark.png
+
+Keep their filenames and PNG transparency. Send the GitHub links once uploaded.
+The aura reuses your existing ares-ui-transparent/ares-glow-dot.png with a cyan
+tint; there is no third image to upload. The GIF is a preview, not a runtime asset.
+
+Animation:
+  Ivory ARES mark settles into the left side.
+  The two strokes of the x draw in at the center.
+  The real cyan Vector mark slides into the right side with a soft aura.
+  Powered by VECTOR fades in below, with VECTOR highlighted in cyan.
+  A slim highlight crosses once; the card fades out at 3.6 seconds.
+
+ares-vector-loading-preview.gif is the animated render.
+ares-vector-loading-still.png shows the finished lockup.
+loading-collab-preview.lua is the pure Lua renderer used for this preview.
+
+This is the revised design render. ARES 2.11.0 remains the current script;
+the new two-logo assets can be connected after their GitHub upload.

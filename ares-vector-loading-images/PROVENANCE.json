@@ -1,0 +1,18 @@
+{
+  "ares": {
+    "source": "Second generated ARES logo / glowing ivory A",
+    "tool": "Built-in image_gen",
+    "initial_prompt": "Use case: logo-brand. Asset type: transparent PNG hero emblem for a small premium ARES game loading screen. Create ONE striking original angular A monogram with a restrained mythic, ominous character. The letter A is built from three slender sharply cut ivory-white strokes around a dark negative-space center; an elegant single thin crescent sweep wraps behind it, subtly suggesting the blade of a reaper's scythe. Asymmetric cuts make the symbol distinctive while remaining unmistakably an A. Extremely clean silhouette, precise spacing and consistent thin edge widths, readable at 64 pixels. Almost flat graphic construction with only a tiny bevel and a very shallow dark sidewall to suggest depth. Cool white emissive edges with soft tightly contained silver-white bloom. Monochrome white, graphite and silver. High-end quiet minimal art direction, not busy heraldry. Square composition, emblem centered, occupies roughly 70 percent of canvas, all extremities fully inside image with generous completely transparent padding. TRUE TRANSPARENT BACKGROUND with real alpha, including gaps inside monogram and crescent. No painted black backdrop, no rectangular glow field, no checkerboard baked in. No text beyond the A monogram, no wordmark, no tiny letters, no watermark, no skull, no character, no diamonds, no chrome-plated ornamental crosshair, no heavy metal texture, no decorative filigree, no stars or stray flecks, no floor or environment, no mockup board. One isolated final logo only.",
+    "refinement_prompt": "Refine this A-and-crescent emblem into a truly minimal premium loading-screen symbol. Preserve its overall asymmetric A and crescent concept and centered square layout, but replace ALL broad beveled silver faces and thick 3D sidewalls with slender near-flat ivory-white strokes, around one third their current thickness. Remove the chrome rendering and surface texture completely. Keep precise sharp geometric tips, immaculate smooth clean edges, and abundant transparent negative space. There must be ZERO white fringe, zero grain, zero flecks, zero fuzzy white haze and zero rainbow edge artifacts. Instead add only a very faint narrow smoothly fading neutral-white glow immediately along the strokes. The A and crescent should look beautifully designed at 64 px: clean, elegant, thin, restrained. No text or extra symbols. Real transparent alpha background and transparent interior gaps, with generous fully transparent padding; no black matte or painted checkerboard. One isolated logo.",
+    "cleanup": "Previously approved alpha-only PNG speck cleanup; RGB retained."
+  },
+  "vector": {
+    "source": "User-provided Vector logo attachment",
+    "cleanup": "Background removed; four geometric pieces traced and antialiased to improve the tiny raster at loading-screen size.",
+    "ai_redraw": false
+  },
+  "aura": {
+    "source": "Existing ares-glow-dot.png",
+    "renderer": "Cyan tint and restrained pulse; one shared image draw."
+  }
+}

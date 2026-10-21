@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "duration_ms": 3600,
+  "render_frames": 72,
+  "geometry_samples": 144,
+  "maximum_drawing_calls": 32,
+  "actual_lua_render": true,
+  "ares_choice": "Glowing ivory A / second option",
+  "vector_source": "User-supplied logo, background removed",
+  "scope": "Preview rendering only; current ARES 2.11.0 runtime is unchanged.",
+  "files": {
+    "ares-loading-ivory.png": "4d0551e93407002a9decde23db163142edbd6b867d163b7b9155879d5cd49c39",
+    "ares-vector-loading-preview.gif": "7a15807dcbce2be1526cedf607f13d0058501cb72e1027c3d29b183a39b42adb",
+    "ares-vector-loading-still.png": "a97a04dcce992d6030ca6b171b3256c7f8b0464685a86ca9d79539755022beba",
+    "loading-collab-preview.lua": "146d4111f3fc8c14686a13d461a3544e0870aa4be92c650ada91fb38cd124fa9",
+    "manifest.json": "09ef5bddd35d938b7c8be770f38b23a18eb1fc2afa954c89c848bf7af7fbdb59",
+    "PROVENANCE.json": "fb0b99f2c830a0e37591358c5f88ffba875716934726988268e449e08b166a03",
+    "UPLOAD.txt": "b9989e6588abb5d82623d4fd3d27bbe8ff09c31f71011f9c9c071ed14277e07a",
+    "vector-loading-mark.png": "e139cf53e5e8693bbd2bb4f1fe02f1ab0031738cea7d30ea6fc4fff250074d2d"
+  }
+}
